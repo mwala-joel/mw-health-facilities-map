@@ -37,3 +37,4 @@ ON health_facilities(healthcare);
 -- Create index on operator type
 CREATE INDEX IF NOT EXISTS idx_health_facilities_operator 
 ON health_facilities(operator_type);
+-- Index added for performance
