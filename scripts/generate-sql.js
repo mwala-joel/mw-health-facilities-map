@@ -50,3 +50,4 @@ console.log(`\n-- Total: ${count} facilities inserted`);
 console.log('-- Verify the data:');
 console.log('SELECT COUNT(*) FROM health_facilities;');
 console.log('SELECT amenity, COUNT(*) as count FROM health_facilities WHERE amenity IS NOT NULL GROUP BY amenity ORDER BY count DESC;');
+// Generating SQL...
