@@ -45,3 +45,5 @@ GET /api/facilities
 <!-- Fixed typos -->
 
 This project maps health facilities in Malawi.
+
+## Submission Details
