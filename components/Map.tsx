@@ -603,3 +603,4 @@ export default function Map() {
     </div>
   );
 }
+// Default zoom set to 7
