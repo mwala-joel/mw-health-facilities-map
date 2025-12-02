@@ -1,0 +1,9 @@
+# Instructions to create .env.local file
+
+1. Create a new file called .env.local in the health-facilities-map folder
+2. Add this single line to it:
+
+DATABASE_URL=postgresql://neondb_owner:npg_Vq6aEnwj7its@ep-muddy-river-a4crf6xe-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+3. Save the file
+4. Then run: npm run migrate
