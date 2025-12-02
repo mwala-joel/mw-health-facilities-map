@@ -41,3 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## API
 GET /api/facilities
+
+<!-- Fixed typos -->
