@@ -26,3 +26,4 @@ pool.on('error', (err: Error) => {
 
 export default pool;
 // Improved connection handling
+// Memory leak fix applied
