@@ -604,3 +604,4 @@ export default function Map() {
   );
 }
 // Default zoom set to 7
+// Loading state handled
