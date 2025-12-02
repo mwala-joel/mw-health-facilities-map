@@ -47,3 +47,6 @@ GET /api/facilities
 This project maps health facilities in Malawi.
 
 ## Submission Details
+
+## License
+MIT
