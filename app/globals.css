@@ -24,3 +24,5 @@ body {
 * {
   box-sizing: border-box;
 }
+
+.map-container { border-radius: 8px; }
