@@ -89,3 +89,4 @@ setupDatabase()
         console.error('\n💥 Fatal error:', err);
         process.exit(1);
     });
+// Seed data updated
