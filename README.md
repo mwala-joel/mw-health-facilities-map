@@ -50,3 +50,9 @@ This project maps health facilities in Malawi.
 
 ## License
 MIT
+
+## Contributors
+- Joel
+- Isaac
+- Londalowa
+- Caroline
