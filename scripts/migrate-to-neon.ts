@@ -133,3 +133,4 @@ migrateData()
         console.error('\n💥 Fatal error:', err);
         process.exit(1);
     });
+// Added error logging
