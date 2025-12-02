@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Local Setup
 1. Clone repo
 2. npm install
+
+## API
+GET /api/facilities
