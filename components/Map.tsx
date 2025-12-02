@@ -607,3 +607,4 @@ export default function Map() {
 // Loading state handled
 // Clustering fixed
 // Center adjusted
+// Tooltip refined
