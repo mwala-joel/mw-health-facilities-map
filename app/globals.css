@@ -28,3 +28,5 @@ body {
 .map-container { border-radius: 8px; }
 
 @media (max-width: 768px) { .map-container { height: 50vh; } }
+
+/* UI Polish */
